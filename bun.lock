@@ -2,7 +2,7 @@
   "lockfileVersion": 1,
   "workspaces": {
     "": {
-      "name": "my-portfolio",
+      "name": "Mon_PortFolio",
       "dependencies": {
         "@astrojs/react": "^4.2.1",
         "@radix-ui/react-slot": "^1.1.2",
