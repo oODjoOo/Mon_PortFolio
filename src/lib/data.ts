@@ -4,7 +4,7 @@ export const personalInfo = {
   email: "djoricca@gmail.com", // à remplacer par ton email pro
   github: "https://github.com/oODjoOo", // à remplacer par ton GitHub
   linkedin: "https://www.linkedin.com/in/jordan-ricca-69b287324/", // à remplacer par ton LinkedIn
-  profilePicture: "/JordanProfil_resultat.webp",
+  profilePicture: "/Mon_PortFolio/JordanProfil_resultat.webp",
   heroDescription:
     "Développeur Web & Web Mobile passionné par la création de sites modernes, interactifs et responsive. Actuellement en formation DWWM au PoleS, je réalise des projets en HTML, CSS, JavaScript, PHP, Symfony et Astro. J’aime explorer de nouvelles technologies et relever des défis techniques.",
 };
