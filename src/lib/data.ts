@@ -2,7 +2,7 @@ export const personalInfo = {
   name: "Jordan (oODjoOo)",
   location: "France",
   email: "djoricca@gmail.com", // à remplacer par ton email pro
-  github: "https://github.com/oODjoOo", // à remplacer par ton GitHub
+  github: "https://github.com/oODjoOo/", // à remplacer par ton GitHub
   linkedin: "https://www.linkedin.com/in/jordan-ricca-69b287324/", // à remplacer par ton LinkedIn
   profilePicture: "/Mon_PortFolio/JordanProfil_resultat.webp",
   heroDescription:
